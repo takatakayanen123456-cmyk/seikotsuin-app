@@ -1,0 +1,15 @@
+{
+  "name": "整骨院青色申告アプリ",
+  "short_name": "青色申告",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#047857",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3209/3209995.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
